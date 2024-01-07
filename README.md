@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=williford-abunas" alt="williford-abunas" /></a> </p>-->
 
-- 🔭 "I am passionate about tackling challenges, continuously expanding my knowledge, and crafting meaningful real-world applications with a purpose."
+- 🔭 "I am passionate about crafting meaningful real-world applications with a purpose."
   
 - 🌱 I’m currently learning **Typescript, Reactjs, Nextjs**
 
